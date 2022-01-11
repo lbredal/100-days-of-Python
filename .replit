@@ -1,3 +1,3 @@
 language = "python3"
 # Change the run command to corresponding day for learning 
-run = "python 'day 4/main.py'"
+run = "python 'day 7/Day-7-Hangman-final.py'"
