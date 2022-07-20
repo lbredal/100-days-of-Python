@@ -1,4 +1,4 @@
 language = "python3"
-# Change the run command to corresponding day for learning 
+# Change the run command to corresponding day for learning
 # run = "python 'day 8/main.py'"
-run = "python 'day 8/day-8-1-exercise.py'"
+run = "python 'day 10/day-10-6-exercise.py'"
